@@ -4,6 +4,7 @@ This program is a project carried out in the Natural Language Processing course,
 
 To start the project, locate the file app.py and execute the code.
 
+### Example View
 
 https://github.com/IanCarmona/Recommendation-Songs-Taylor-Swift/blob/master/Captura%20de%20pantalla%202024-02-12%20161418.jpg
 
