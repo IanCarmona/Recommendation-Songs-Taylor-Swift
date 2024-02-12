@@ -4,4 +4,4 @@ This program is a project carried out in the Natural Language Processing course,
 
 To start the project, locate the file app.py and execute the code.
 
-[![Steps](./Captura de pantalla 2024-02-12 161418.jpg)]
+[![Steps](/Captura de pantalla 2024-02-12 161418.jpg)]
