@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Diario</title>
+</head>
+<body>
+    <div class="container">
+        <h1>TAYLOR'S DIARY</h1>
+        <div class="entry-form">
+            <label for="entry">Message:</label>
+            <textarea id="entry" rows="4" minlength="5" required></textarea>
+            <div class="button-container">
+                <button id="submitBtn">Enviar</button>
+            </div>
+        </div>
+        <div class="entries" id="entries-list"></div>
+
+        <!-- Modal -->
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div id="top10" class="top10"></div>
+                <div class="button-container"></div>
+                    <button id="viewGraph" class="modal-button">Ver estadísticas</button>
+                    <div id="graph" class="graph"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
