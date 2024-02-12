@@ -4,3 +4,6 @@ This program is a project carried out in the Natural Language Processing course,
 
 To start the project, locate the file app.py and execute the code.
 
+![Texto alternativo](Captura de pantalla 2024-02-12 161418.jpg)
+![Texto alternativo](Captura de pantalla 2024-02-12 161453.jpg)
+![Texto alternativo](Captura de pantalla 2024-02-12 161533.jpg)
